@@ -20,6 +20,9 @@ Since I’m based in the Netherlands, and most housing listings live on Funda.nl
 
 ## What I Hope to Learn (and Share)
 
+![Project Pipeline](/assets/project_pipeline.png)
+
+
 This project isn’t just about predicting prices - it’s about practicing the full lifecycle of a data product. Along the way, I hope to sharpen (and share!) skills in areas like:
 
 + Project planning & scoping - breaking a big idea into smaller, manageable phases.
