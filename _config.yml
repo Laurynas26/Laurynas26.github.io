@@ -6,16 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
+title: Welcome to Laurynas' blog!
 description: This will be a by-weekly blog about data science, my work, and personal projects.
-github_username: jph00
+github_username: Laurynas26
 
 # Email and twitter are optional:
-email:
+email:lau.baltrusaitis@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
